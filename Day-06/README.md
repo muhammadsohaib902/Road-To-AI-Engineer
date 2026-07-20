@@ -1,1 +1,1 @@
-This folder contains 2 jupyter files. One for backpropagation in classification and the other one for backpropagation in regression problem.
+This folder contains 3 jupyter notebook files. One for backpropagation in classification and the second one for backpropagation in regression problem. The third file shows implementation for gradient descent problem.
